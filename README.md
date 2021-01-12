@@ -11,3 +11,5 @@ Thanks for the fundamentals!
 In v4 the sketch reads parameters from an microSD card and deliveres the tally signal of an ATEM switcher. You will need the libraries from SKAARHOJ Open Engineering and 'Rudolph_SD' and 'Rudolph_Error'. Add a LED to PIN6 of the ESP8266.
 
 It does not work with Constellation 8K yet!
+
+Contact and custom hardware: www.matthiasbender.com
