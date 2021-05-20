@@ -15,11 +15,11 @@ Contact and custom hardware: https://www.bender-medien.de
 
 
 
-V4
+version 4
 ----------------------------
 In version 4 the sketch reads the parameters from a microSD card and deliveres the tally signal of an ATEM switcher. You will need the libraries from SKAARHOJ Open Engineering and 'Rudolph_SD' and 'Rudolph_Error'. Add a LED to PIN6 of the ESP8266.
 
-V5
+version 5
 ----------------------------
 Version 5 brings in the wifi manager and enables to change and store the configuration using your web browser. Before using the first time, run the prep.ino once.
 
