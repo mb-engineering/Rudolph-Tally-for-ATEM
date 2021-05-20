@@ -20,7 +20,8 @@ Version 5 brings in the wifi manager and enables to change and store the configu
 You will need the libraries from SKAARHOJ Open Engineering and the WiFiManager.
 
 
-
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 To make it work with Constellation 8K you have to make a change in on of the SKAARHOJ libraries.
 Contact and custom hardware: https://www.bender-medien.de
