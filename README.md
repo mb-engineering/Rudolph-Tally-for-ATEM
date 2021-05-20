@@ -17,6 +17,8 @@ V5
 ----------------------------
 Version 5 brings in the wifi manager and enables to change and store the configuration using your web browser. Before using the first time, run the prep.ino once.
 
+You will need the libraries from SKAARHOJ Open Engineering and the WiFiManager.
+
 
 
 
