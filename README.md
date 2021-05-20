@@ -12,7 +12,8 @@ Thanks for the fundamentals!
 To make it work with Constellation 8K you have to make a change in on of the SKAARHOJ libraries.
 Contact and custom hardware: https://www.bender-medien.de
 
-****
+
+
 
 V4
 ----------------------------
