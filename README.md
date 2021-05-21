@@ -21,7 +21,7 @@ In version 4 the sketch reads the parameters from a microSD card and deliveres t
 
 version 5
 ----------------------------
-Version 5 brings in the wifi manager and enables to change and store the configuration using your web browser. Before using the first time, run the prep.ino once.
+Version 5 brings in the wifi manager and enables to change and store the configuration using your web browser. If the device does not find a already known network, it opens up its own wifi. Before using the first time, run the prep.ino once.<br>
 Configuration interface by Kathleen Preikschas.
 
 You will need the libraries from SKAARHOJ Open Engineering and the WiFiManager.
