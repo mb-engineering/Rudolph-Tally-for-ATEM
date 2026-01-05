@@ -9,7 +9,7 @@ https://oneguyoneblog.com/2020/06/13/tally-light-esp32-for-blackmagic-atem-switc
 
 Thanks for the fundamentals!
 
-To make it work with Constellation 8K you have to make a change in on of the SKAARHOJ libraries.
+To make it work with Constellation 8K you have to make a change in one of the SKAARHOJ libraries.
 
 
 
